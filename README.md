@@ -1,2 +1,2 @@
-# jogo-de-cartas-marcadas
-Jogo inspirado no Tarot do Impeachment
+# tarot-do-golpe
+Trabalho para Perfídia 2021.
